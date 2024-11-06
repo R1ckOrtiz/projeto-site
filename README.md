@@ -1,1 +1,1 @@
-Site simples criado em HTML, CSS & JS com profesor Guanabara
+Site simples criado em HTML, CSS & JS com professor Guanabara
